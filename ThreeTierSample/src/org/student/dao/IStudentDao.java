@@ -8,7 +8,7 @@ public interface IStudentDao {
 
 	public boolean addStudent(Student student) ;
 	
-	//根据学号修改学生： 根据sno知道待修改的人 ，把这个人 修改成student
+	//根据学号修改学生：1根据sno知道待修改的人 ，把这个人 修改成student
 	public boolean updateStudentBySno(int sno,Student student)  ;
 	
 	public int getTotalCount();
