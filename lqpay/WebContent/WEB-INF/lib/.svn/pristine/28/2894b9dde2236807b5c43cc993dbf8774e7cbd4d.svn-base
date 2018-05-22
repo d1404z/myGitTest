@@ -1,0 +1,171 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-CN" lang="zh-CN">
+
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>蓝桥支付-个人中心</title>
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<link rel="stylesheet" type="text/css" href="css/global.css">
+		<link rel="stylesheet" type="text/css" href="css/form.css">
+		<link rel="stylesheet" type="text/css" href="css/biz/security.css">
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/global.js"></script>
+		<script type="text/javascript" src="js/util.js"></script>
+	</head>
+
+	<body>
+		<div id="top"></div>
+		<div id="header">
+			<div class="layout">
+				<div id="logo">
+					<a href="uc.html">
+						<img src="images/logo.png" alt="蓝桥" />
+					</a>
+				</div>
+				<div id="nav" class="glb-nav">
+					<ul class="clearfix">
+						<li class="glb-nav-uc">
+							<a href="#">
+								<span></span>
+							</a>
+						</li>
+						<li class="glb-nav-setting current">
+							<a href="#">
+								<span></span>
+							</a>
+						</li>
+						<li class="glb-nav-trade">
+							<a href="#">
+								<span></span>
+							</a>
+						</li>
+						<li class="glb-nav-order">
+							<a href="#">
+								<span></span>
+							</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="main layout">
+			<div class="col-menu">
+				<ul class="menu-items">
+					<li>
+						<a class="menu-txt iconfont icon-menu-um" href="#">会员资料</a>
+					</li>
+					<li>
+						<a class="menu-txt iconfont icon-menu-pm" href="#">商户管理</a>
+					</li>
+					<li class="current">
+						<a class="menu-txt iconfont icon-menu-sm" href="#">安全中心</a>
+					</li>
+					<li class="last">
+						<a class="menu-txt iconfont icon-menu-bm" href="#">银行卡管理</a>
+					</li>
+				</ul>
+			</div>
+			<div class="col-main">
+				<div class="main-hd">
+					<h3 class="iconfont icon-menu-sm">修改支付密码</h3>
+				</div>
+				<div class="main-bd">
+					<div class="main-top-tip">
+						<h3 class="title">
+							当前绑定手机为:
+							<span class="em">13804333369</span>
+						</h3>
+					</div>
+					<div class="items-group-box group-fold-only group-fold-default">
+						<div class="item-group">
+							<div class="group-hd clearfix">
+								<div class="group-hd-txt">
+									<h3>我忘记支付密码了</h3>
+									<p>我忘记支付密码了我忘记支付密码了我忘记支付密码了</p>
+								</div>
+							</div>
+							<ul class="group-bd type-items">
+								<li class="clearfix">
+									<span class="item-ico iconfont icon-safe-mobile"></span>
+									<div class="item-desc">
+										<h3>我忘记登录密码</h3>
+										<p>忘记登录密码和支付密码,请选择此方式.</p>
+									</div>
+									<div class="item-action">
+										<a href="member_reg_login.html" class="glb-btn item-btn">
+											<span>立即重置</span>
+										</a>
+									</div>
+								</li>
+								<li class="clearfix">
+									<span class="item-ico iconfont icon-safe-email"></span>
+									<div class="item-desc">
+										<h3>我忘记登录密码</h3>
+										<p>忘记登录密码和支付密码,请选择此方式.</p>
+									</div>
+									<div class="item-action">
+										<a href="member_reg_login.html" class="glb-btn item-btn">
+											<span>立即重置</span>
+										</a>
+									</div>
+								</li>
+								<li class="clearfix">
+									<span class="item-ico iconfont icon-safe-pwd"></span>
+									<div class="item-desc">
+										<h3>我忘记登录密码</h3>
+										<p>
+											忘记登录 <em>密码和支付</em>
+											密码,请选择此方式.
+										</p>
+									</div>
+									<div class="item-action">
+										<a href="member_reg_login.html" class="glb-btn item-btn">
+											<span>立即重置</span>
+										</a>
+									</div>
+								</li>
+							</ul>
+						</div>
+						<div class="item-group">
+							<div class="group-hd clearfix">
+								<div class="group-hd-txt">
+									<h3>我忘记支付密码了</h3>
+									<p>我忘记支付密码了我忘记支付密码了我忘记支付密码了</p>
+								</div>
+							</div>
+							<ul class="group-bd type-items">
+								<li class="clearfix">
+									<span class="item-ico iconfont icon-safe-qa"></span>
+									<div class="item-desc">
+										<h3>我忘记登录密码</h3>
+										<p>忘记登录密码和支付密码,请选择此方式.</p>
+									</div>
+									<div class="item-action">
+										<a href="member_reg_login.html" class="glb-btn item-btn">
+											<span>立即重置</span>
+										</a>
+									</div>
+								</li>
+								<li class="clearfix">
+									<span class="item-ico iconfont icon-safe-service"></span>
+									<div class="item-desc">
+										<h3>我忘记登录密码</h3>
+										<p>忘记登录密码和支付密码,请选择此方式.</p>
+									</div>
+									<div class="item-action">
+										<a href="member_reg_login.html" class="glb-btn item-btn">
+											<span>立即重置</span>
+										</a>
+									</div>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div id="bottom" class="bottom"></div>
+	</body>
+
+</html>

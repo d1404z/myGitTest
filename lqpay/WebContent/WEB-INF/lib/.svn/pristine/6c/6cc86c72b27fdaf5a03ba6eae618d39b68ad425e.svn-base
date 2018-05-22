@@ -1,0 +1,12 @@
+<form class="form-bd" action="" id="personal_sendEmail">
+	<div class="form-item">
+		<div class="reg-sendEmail">
+			<p>请在24小时内点击邮件中的链接继续完成注册</p>
+			<p>邮件已发送至邮箱<span>11267@lanqiao.org</span></p>
+		</div>
+		<div class="reg-sendEmailBtn">
+			<a href="reg_personal_b.html" class="glb-btn"  value="立即查收邮件">立即查收邮件</a>
+			<a href="#">没有收到邮件？</a>
+		</div>
+	</div>
+</form>
