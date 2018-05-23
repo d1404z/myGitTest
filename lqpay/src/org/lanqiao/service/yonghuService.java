@@ -28,5 +28,5 @@ public String getEmailadd() {
 }
 public void setEmailadd(String emailadd) {
 	this.emailadd = emailadd;
-}
+ }
 }
