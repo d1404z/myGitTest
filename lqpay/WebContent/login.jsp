@@ -66,7 +66,7 @@
 								<img src="images/kaptcha.jpg" alt="点击刷新" />
 							</a>
 						</div>
-						<a href="uc.html" class="glb-btn login-btn">
+						<a href="uc.jsp" class="glb-btn login-btn">
 							<span>登 录</span>
 						</a>
 						<div class="login-error">
